@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 4000;
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send(process.env.GITHUB_USERNAME, "Goodbye & Hello World!");
+  res.send(process.env.REACT_APP_hello-world-express, "Goodbye & Hello World!");
 });
 
 app.listen(PORT, () => {
