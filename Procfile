@@ -1,1 +1,1 @@
-release:~# cowsay -f dragon-and-cow "RAAARW I AM A DRACOW MALFOY"
+release: npx cowsay -f dragon-and-cow "RAAARW I AM A DRACOW MALFOY"
