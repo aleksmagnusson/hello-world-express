@@ -1,2 +1,1 @@
-release: npx cowsay Procfile
-Ana Bortion Muuu
+release: npx cowsay Procfile Ana Bortion Muuu
